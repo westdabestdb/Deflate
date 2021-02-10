@@ -14,15 +14,7 @@ $ npm install //install the OpenZeppelin Contracts package.
 $ truffle deploy
 ```
 
-
-## Author
-
-👤 **Görkem Erol**
-
-* Website: https://westdabestdb.com
-* Github: [@westdabestdb](https://github.com/westdabestdb)
-
-## Show your support
+## Support me
 
 Give a ⭐️ if this project helped you!
 
