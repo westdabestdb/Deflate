@@ -1,0 +1,26 @@
+{
+  "name": "deflate",
+  "version": "1.0.0",
+  "description": "> ERC20 token with constant deflation. X percent of the total supply burns after every single transfer.",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "@openzeppelin/contracts": "^3.4.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/westdabestdb/deflate.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/westdabestdb/deflate/issues"
+  },
+  "homepage": "https://github.com/westdabestdb/deflate#readme"
+}
